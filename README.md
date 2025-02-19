@@ -7,7 +7,6 @@ Welcome to my GitHub portfolio! I'm a passionate Software Engineering student wi
 - 🌐 **LinkedIn**: [Thushan Malaka Ranasinghe](https://www.linkedin.com/in/thushan-malaka-1885851ba/)
 - 📧 **Email**: thushanmalaka123@gmail.com
 - 📞 **Phone**: +9471-7886186
-- 💼 **GitHub**: [ltsME-TM](https://github.com/ItsME-TM/)
 
 ## Skills
 
