@@ -1,6 +1,6 @@
 # Thushan Malaka Ranasinghe
 
-Welcome to my GitHub portfolio! I'm a passionate Software Engineering student with hands-on experience in developing diverse projects. I'm proficient in various programming languages and technologies, and I'm always eager to contribute to innovative engineering projects.
+Welcome to my GitHub portfolio! I'm a passionate Computer Engineering student with hands-on experience in developing diverse projects. I'm proficient in various programming languages and technologies, and I'm always eager to contribute to innovative engineering projects.
 
 ## About Me
 
